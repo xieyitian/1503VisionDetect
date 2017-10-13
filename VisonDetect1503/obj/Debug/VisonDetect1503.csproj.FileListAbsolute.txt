@@ -1,0 +1,11 @@
+C:\Users\daniel.xie\Desktop\1503VisonDetect\VisonDetect1503\VisonDetect1503\bin\Debug\VisonDetect1503.exe.config
+C:\Users\daniel.xie\Desktop\1503VisonDetect\VisonDetect1503\VisonDetect1503\obj\Debug\VisonDetect1503.exe
+C:\Users\daniel.xie\Desktop\1503VisonDetect\VisonDetect1503\VisonDetect1503\obj\Debug\VisonDetect1503.pdb
+C:\Users\daniel.xie\Desktop\1503VisonDetect\VisonDetect1503\VisonDetect1503\bin\Debug\VisonDetect1503.exe
+C:\Users\daniel.xie\Desktop\1503VisonDetect\VisonDetect1503\VisonDetect1503\bin\Debug\VisonDetect1503.pdb
+C:\Users\daniel.xie\Desktop\1503VisonDetect\VisonDetect1503\VisonDetect1503\bin\Debug\Emgu.CV.World.dll
+C:\Users\daniel.xie\Desktop\1503VisonDetect\VisonDetect1503\VisonDetect1503\bin\Debug\uEyeDotNet.dll
+C:\Users\daniel.xie\Desktop\1503VisonDetect\VisonDetect1503\VisonDetect1503\obj\Debug\VisonDetect1503.csprojResolveAssemblyReference.cache
+C:\Users\daniel.xie\Desktop\1503VisonDetect\VisonDetect1503\VisonDetect1503\obj\Debug\VisonDetect1503.MainForm.resources
+C:\Users\daniel.xie\Desktop\1503VisonDetect\VisonDetect1503\VisonDetect1503\obj\Debug\VisonDetect1503.Properties.Resources.resources
+C:\Users\daniel.xie\Desktop\1503VisonDetect\VisonDetect1503\VisonDetect1503\obj\Debug\VisonDetect1503.csproj.GenerateResource.Cache
